@@ -1,0 +1,10 @@
+.room{
+    width:840px;
+    height: 1508px;
+    background-color: rgb(243, 244, 244);
+    display: inline-block;
+    /* vertical-align: middle; */
+}
+.hotel{
+    height: 150px;
+}
